@@ -1,1 +1,1 @@
-### Deep Learning is repository
+### Deep Learning repository
